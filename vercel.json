@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/support",
+      "destination": "https://t.me/safaprayersupport",
+      "permanent": false
+    },
+    {
+      "source": "/support/",
+      "destination": "https://t.me/safaprayersupport",
+      "permanent": false
+    }
+  ]
+}
