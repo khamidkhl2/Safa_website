@@ -433,6 +433,15 @@ h1 {
   flex-wrap: wrap;
 }
 
+.footer-credit {
+  display: grid;
+  gap: 5px;
+}
+
+.footer-credit span:last-child {
+  color: rgba(23, 32, 29, 0.82);
+}
+
 .legal-shell {
   padding: 68px 0 80px;
 }
